@@ -1,16 +1,16 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Email Assistant",
+      "imageSrc": "projects/Email-Assistant-thumbnail.jpeg",
+      "description": "AI-powered email assistant with Spring Boot backend, React frontend, Chrome extension for efficient, context-aware email drafting using modern web technologies",
+      "skills": ["React", "Spring Boot","GenAI", "Docker"],
+      "demo": "https://emailreplyassistent.netlify.app/",
+      "source": "https://github.com/SaqibCod/Email-Assistant"
     },
     {
       "title": "Project B",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a project made to learn the latest languages by building an app.A Spring Boot service exposing a clean REST API to generate email drafts on demand",
       "skills": ["React", "Express", "Node", "Sass"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
@@ -18,7 +18,7 @@
     {
       "title": "Project C",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a project made to learn a building app. A responsive single-page app (Vite + React) that collects recipient details, desired tone, subject, and key points,",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
